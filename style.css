@@ -14,7 +14,7 @@ input[type="text"]{
     height: 40px;
     border-radius: 20px;
     text-align: center;
-    border: none;
+    border: solid;
 }
 #add{
     border-radius: 10px;
