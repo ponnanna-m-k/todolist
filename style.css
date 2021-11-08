@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+
+
+input[type="text"]{
+    padding: 10px;
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+#add{
+    border-radius: 10px;
+    margin:0px;
+    border: none;
+
+}
+
+.trash{
+    float:right;
+    
+} 
+ol {
+    margin: 0;
+    padding: 0;
+  }
+ol li {
+    text-transform: uppercase;
+    font-size: 10px;
+    cursor: pointer;
+    padding: 5px;
+    color:#44081a;
+    font-size: 20px;
+    margin-top:40px;
+}  
+.completedItem{
+    text-decoration: line-through;
+    
+}
+
+.fall{
+     display: none;
+}  
+
